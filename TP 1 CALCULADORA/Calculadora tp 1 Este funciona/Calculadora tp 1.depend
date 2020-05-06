@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1588773464 source:c:\users\luciano\desktop\c\calculadora tp 1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"Calcu.h"
+
+1588773439 source:c:\users\luciano\desktop\c\calculadora tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1588773439 c:\users\luciano\desktop\c\calculadora tp 1\calcu.h
+
