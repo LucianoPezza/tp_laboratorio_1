@@ -15,7 +15,7 @@ void initEmployees(eEmployee lista[], int tam)
 }
 int addEmployees(int pid, eEmployee lista[], int tam)
 {
-    int indice = findFreeEmployees(lista, tam);
+    int indice = findFreespace(lista, tam);
     int confirmo = 0;
 
     eEmployee auxNot;
@@ -55,7 +55,7 @@ int addEmployees(int pid, eEmployee lista[], int tam)
     }
     return confirmo;
 }
-int findFreeEmployees(eEmployee lista[], int tam)
+int findFreespace(eEmployee lista[], int tam)
 {
     int indice = -1;
     for(int i =0; i< tam; i++)
