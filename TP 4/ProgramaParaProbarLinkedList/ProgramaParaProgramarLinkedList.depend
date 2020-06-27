@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1593281145 source:c:\users\luciano\desktop\programaparaprogramarlinkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1560475730 c:\users\luciano\desktop\programaparaprogramarlinkedlist\linkedlist.h
+
+1593283292 source:c:\users\luciano\desktop\programaparaprogramarlinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"funciones.h"
+	"Validaciones.h"
+
+1593282974 source:c:\users\luciano\desktop\programaparaprogramarlinkedlist\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"funciones.h"
+	"Validaciones.h"
+
+1593283602 c:\users\luciano\desktop\programaparaprogramarlinkedlist\funciones.h
+
+1592082020 c:\users\luciano\desktop\programaparaprogramarlinkedlist\validaciones.h
+
+1592082020 source:c:\users\luciano\desktop\programaparaprogramarlinkedlist\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Validaciones.h"
+
