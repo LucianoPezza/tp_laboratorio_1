@@ -11,7 +11,7 @@ int main()
     LinkedList* listaEmpleados = ll_newLinkedList();
     do
     {
-        printf("\n1.Para cargar los datos por texto\n2.Para mostrar los empleados\n3. Editar empleados\n4.Borrar empleado(no incluido el borrado espacio-temporal) \n5. para salir\n");
+        printf("\n1.Para cargar los datos por texto\n2.Para mostrar los empleados\n3. Editar empleados\n4.Borrar empleado(no incluido el borrado espacio-temporal)\n5. Eliminar todos los empleados \n6. para salir\n");
         option = getInt("Ingrese una opcion: ","Error. Solo puede ingresar numeros: ");
         switch(option)
         {
@@ -34,8 +34,11 @@ int main()
             system("pause");
             system("cls");
             break;
+        case 5:
+            ll_clear(listaEmpleados);
+            break;
         }
     }
-    while(option != 5);
+    while(option != 6);
 
 }

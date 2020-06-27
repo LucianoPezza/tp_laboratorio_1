@@ -34,3 +34,31 @@
 	<conio.h>
 	"Validaciones.h"
 
+1593283958 source:c:\users\luciano\desktop\cosas\c\tp 4\programaparaprobarlinkedlist\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"funciones.h"
+	"Validaciones.h"
+
+1560475730 c:\users\luciano\desktop\cosas\c\tp 4\programaparaprobarlinkedlist\linkedlist.h
+
+1593283958 c:\users\luciano\desktop\cosas\c\tp 4\programaparaprobarlinkedlist\funciones.h
+
+1592082020 c:\users\luciano\desktop\cosas\c\tp 4\programaparaprobarlinkedlist\validaciones.h
+
+1593281145 source:c:\users\luciano\desktop\cosas\c\tp 4\programaparaprobarlinkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1592082020 source:c:\users\luciano\desktop\cosas\c\tp 4\programaparaprobarlinkedlist\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Validaciones.h"
+
